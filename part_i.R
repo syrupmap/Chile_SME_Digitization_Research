@@ -5,7 +5,7 @@ library(readxl)
 ###     by "Tamaño Empresa Registrada en SII_1" (from column Q: [Datos Informativos desde el SII] Tamaño Empresa Registrada en SII_1 [6406123])
 ###     by Red (from column F: [SERVICIOS RED DE ASISTENCIA DIGITAL FORTALECE PYME] Nombre de su Red:_1 [6406014])
 
-data <- read_excel("20231107_22CET-1_ATW.xlsx")
+data <- read_excel("PLACEHOLDER.xlsx")
 
 data_hours_analysis <- data %>%
   rename(

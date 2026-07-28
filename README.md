@@ -15,10 +15,10 @@ This analysis investigates the geographic distribution of digitalization service
 ## Research Outputs
 ### Literature Review
 [SMALL BUSINESSES IN THE DIGITAL ECONOMY_ Barriers to Tech Adoption.pdf](https://github.com/user-attachments/files/30447546/SMALL.BUSINESSES.IN.THE.DIGITAL.ECONOMY_.Barriers.to.Tech.Adoption.pdf)
-Conducted a comprehensive literature review examining:
-- Barriers of SME digitalization initiatives in Latin America
-- Digital inequality and regional development
-- Government intervention strategies for small business modernization
+- Conducted a comprehensive literature review examining:
+  - Barriers of SME digitalization initiatives in Latin America
+  - Digital inequality and regional development
+  - Government intervention strategies for small business modernization
 
 ### Conference Presentations
 - Global Policy Forum

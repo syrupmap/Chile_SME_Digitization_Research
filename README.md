@@ -49,10 +49,10 @@ The original datasets used in this research are not included in this repository.
 - Public Policy Research
 - Data Visualization
 - Statistical Programming in R
-<img width="581" height="385" alt="Screenshot 2026-07-28 at 1 06 54 AM" src="https://github.com/user-attachments/assets/dac305a0-f08c-4d3e-828d-3d791b96cd96" />
-<img width="639" height="385" alt="Screenshot 2026-07-28 at 1 15 09 AM" src="https://github.com/user-attachments/assets/ce0609e5-f7c4-4255-a884-001ccd956164" />
-<img width="578" height="384" alt="Screenshot 2026-07-28 at 1 16 20 AM" src="https://github.com/user-attachments/assets/7476dd1b-16a0-4b39-92be-4c238b80c403" />
-<img width="582" height="385" alt="Screenshot 2026-07-28 at 1 15 42 AM" src="https://github.com/user-attachments/assets/1a5f23eb-00d7-4c6c-8e5d-83bd9cd7cd0d" />
+<img width="577" height="385" alt="Screenshot 2026-07-28 at 1 17 10 AM" src="https://github.com/user-attachments/assets/c583ccb1-759c-40f6-9bc8-e10682ad434d" />
+<img width="577" height="385" alt="Screenshot 2026-07-28 at 1 17 24 AM" src="https://github.com/user-attachments/assets/1ebc6369-958c-4e6f-a80f-761a2341c980" />
+<img width="577" height="385" alt="Screenshot 2026-07-28 at 1 17 50 AM" src="https://github.com/user-attachments/assets/a0ce7216-32f2-4235-83f0-ae5afef7722a" />
+<img width="577" height="385" alt="Screenshot 2026-07-28 at 1 17 43 AM" src="https://github.com/user-attachments/assets/c932d545-2a4a-4660-9796-12bbe2ee6141" />
 
 
 

@@ -1,8 +1,6 @@
 # Chile_SME_Digitization_Research
 
-<img width="579" height="384" alt="Screenshot 2026-07-28 at 1 07 33 AM" src="https://github.com/user-attachments/assets/6bf1cad5-eca0-404a-b9f3-ea035eb9fc05" />
 <img width="581" height="385" alt="Screenshot 2026-07-28 at 1 06 54 AM" src="https://github.com/user-attachments/assets/dac305a0-f08c-4d3e-828d-3d791b96cd96" />
-<img width="774" height="385" alt="Screenshot 2026-07-28 at 1 08 36 AM" src="https://github.com/user-attachments/assets/0f9de41b-2309-4d31-983d-6a461529e858" />
 
 
 R-based policy analysis of Chilean SME digitalization programs using government administrative data and municipal poverty indicators.

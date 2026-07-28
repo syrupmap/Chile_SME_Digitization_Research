@@ -50,6 +50,8 @@ The original datasets used in this research are not included in this repository.
 - Public Policy Research
 - Data Visualization
 - Statistical Programming in R
+
+*Some text was enlarged for the poster
 <img width="577" height="385" alt="Screenshot 2026-07-28 at 1 17 10 AM" src="https://github.com/user-attachments/assets/c583ccb1-759c-40f6-9bc8-e10682ad434d" />
 <img width="577" height="385" alt="Screenshot 2026-07-28 at 1 17 24 AM" src="https://github.com/user-attachments/assets/1ebc6369-958c-4e6f-a80f-761a2341c980" />
 <img width="577" height="385" alt="Screenshot 2026-07-28 at 1 17 50 AM" src="https://github.com/user-attachments/assets/a0ce7216-32f2-4235-83f0-ae5afef7722a" />

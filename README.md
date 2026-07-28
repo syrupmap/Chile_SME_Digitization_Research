@@ -1,5 +1,5 @@
 # Chile_SME_Digitization_Research
-
+<img width="774" height="579" alt="Screenshot 2026-07-28 at 1 12 26 AM" src="https://github.com/user-attachments/assets/65bd7db5-7319-434a-8d15-cc40e3451ed2" />
 <img width="581" height="385" alt="Screenshot 2026-07-28 at 1 06 54 AM" src="https://github.com/user-attachments/assets/dac305a0-f08c-4d3e-828d-3d791b96cd96" />
 
 

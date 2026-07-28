@@ -2,6 +2,7 @@
 <img width="774" height="579" alt="Screenshot 2026-07-28 at 1 12 26 AM" src="https://github.com/user-attachments/assets/65bd7db5-7319-434a-8d15-cc40e3451ed2" />
 
 R-based policy analysis of Chilean SME digitalization programs using government administrative data and municipal poverty indicators. This project was completed as part of the Undergraduate Research Apprenticeship Program (URAP) at the University of Illinois Urbana-Champaign.
+Mentor: Adrian Wong
 
 ## Overview 
 This analysis investigates the geographic distribution of digitalization services provided to small and medium-sized enterprises (SMEs) across Chile. Data was cleaned, categorized, and tagged with poverty indicators, regions, and sectioning to explore how digital support programs were distributed among communities with varying socioeconomic conditions.

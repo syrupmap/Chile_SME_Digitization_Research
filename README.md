@@ -1,7 +1,5 @@
 # Chile_SME_Digitization_Research
 <img width="774" height="579" alt="Screenshot 2026-07-28 at 1 12 26 AM" src="https://github.com/user-attachments/assets/65bd7db5-7319-434a-8d15-cc40e3451ed2" />
-<img width="581" height="385" alt="Screenshot 2026-07-28 at 1 06 54 AM" src="https://github.com/user-attachments/assets/dac305a0-f08c-4d3e-828d-3d791b96cd96" />
-
 
 R-based policy analysis of Chilean SME digitalization programs using government administrative data and municipal poverty indicators. This project was completed as part of the Undergraduate Research Apprenticeship Program (URAP) at the University of Illinois Urbana-Champaign.
 
@@ -51,3 +49,10 @@ The original datasets used in this research are not included in this repository.
 - Public Policy Research
 - Data Visualization
 - Statistical Programming in R
+<img width="581" height="385" alt="Screenshot 2026-07-28 at 1 06 54 AM" src="https://github.com/user-attachments/assets/dac305a0-f08c-4d3e-828d-3d791b96cd96" />
+<img width="639" height="385" alt="Screenshot 2026-07-28 at 1 15 09 AM" src="https://github.com/user-attachments/assets/ce0609e5-f7c4-4255-a884-001ccd956164" />
+<img width="578" height="384" alt="Screenshot 2026-07-28 at 1 16 20 AM" src="https://github.com/user-attachments/assets/7476dd1b-16a0-4b39-92be-4c238b80c403" />
+<img width="582" height="385" alt="Screenshot 2026-07-28 at 1 15 42 AM" src="https://github.com/user-attachments/assets/1a5f23eb-00d7-4c6c-8e5d-83bd9cd7cd0d" />
+
+
+
